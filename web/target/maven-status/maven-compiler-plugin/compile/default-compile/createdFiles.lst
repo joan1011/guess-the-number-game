@@ -1,8 +1,8 @@
 com\springtutorial\controller\GameController.class
-com\springtutorial\util\ViewNames.class
-com\springtutorial\service\GameServiceImpl.class
 com\springtutorial\WebMain.class
 com\springtutorial\service\GameService.class
 com\springtutorial\util\GameMappings.class
+com\springtutorial\util\ViewNames.class
+com\springtutorial\service\GameServiceImpl.class
 com\springtutorial\config\WebConfig.class
 com\springtutorial\util\AttributeNames.class
