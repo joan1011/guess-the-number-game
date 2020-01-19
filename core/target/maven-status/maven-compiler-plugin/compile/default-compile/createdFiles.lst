@@ -1,10 +1,10 @@
 com\springtutorial\MinNumber.class
 com\springtutorial\NumberGeneratorImpl.class
+com\springtutorial\MessageGenerator.class
+com\springtutorial\config\GameConfig.class
 com\springtutorial\Game.class
 com\springtutorial\NumberGenerator.class
-com\springtutorial\MessageGenerator.class
 com\springtutorial\GameImpl.class
-com\springtutorial\config\GameConfig.class
 com\springtutorial\MessageGeneratorImpl.class
 com\springtutorial\GuessCount.class
 com\springtutorial\MaxNumber.class

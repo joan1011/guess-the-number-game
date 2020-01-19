@@ -2,7 +2,9 @@ com\springtutorial\controller\GameController.class
 com\springtutorial\WebMain.class
 com\springtutorial\service\GameService.class
 com\springtutorial\util\GameMappings.class
+com\springtutorial\Interceptor\RequestInterceptor.class
 com\springtutorial\util\ViewNames.class
 com\springtutorial\service\GameServiceImpl.class
+com\springtutorial\util\thymeleaf\DecoupledLogicSetup.class
 com\springtutorial\config\WebConfig.class
 com\springtutorial\util\AttributeNames.class
